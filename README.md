@@ -1,4 +1,12 @@
-# [UploaditRoBot](https://t.me/UploadItRobot)
+# [UploaditRoBot](https://t.me/GitCodeX)
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  </a>
+
+<a href="https://t.me/GitCodex">
+    <img src="https://github.com/GitHubsantu/PyrogramGenStr/blob/main/resources/madebycodex-badge_copy_250x56.png" width="250">
+  </a>
 Simple URL uploader bot for Telegram - Based on MadelineProto
 You can use with 2 methods:
 
@@ -13,7 +21,7 @@ You can use with 2 methods:
 
 ## With VPS
 
-1-) Run `git clone https://github.com/TheDarkW3b/uploadit
+1-) Run `git clone https://github.com/GitHubsantu/uploadit
 
 2-) Run `php fileassistantbot.php`
 
@@ -31,4 +39,4 @@ You can use with 2 methods:
 
 ## Credits
 Thanks @nimah79 for async and helps!
-Thanks @spechide for helps! And it's ReEdited By [@TheDarkW3b](https://t.me/TheDarkW3b)
+Thanks @spechide for helps! And it's ReEdited By [GitCodeX](https://t.me/GitCodex)
