@@ -7,6 +7,7 @@
 <a href="https://t.me/GitCodex">
     <img src="https://github.com/GitHubsantu/PyrogramGenStr/blob/main/resources/madebycodex-badge_copy_250x56.png" width="250">
   </a>
+
 Simple URL uploader bot for Telegram - Based on MadelineProto
 You can use with 2 methods:
 
