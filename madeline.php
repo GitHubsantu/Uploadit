@@ -1,3 +1,4 @@
+#(©)GitCodeX
 <?php
 
 if (PHP_MAJOR_VERSION === 5) {
