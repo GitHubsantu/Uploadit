@@ -13,3 +13,4 @@ class ComposerStaticInitf4619ddde1b2491f6f1e2a1ee924a048
         }, null, ClassLoader::class);
     }
 }
+
